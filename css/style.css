@@ -88,9 +88,10 @@ p {
     background-color: #2589bd;
 }
 
-.benefit-lead {
+.benefit-lead {  
     margin-bottom: 32px;
     color: #ffffff;
+  
 }
 
 .benefit-brand {
@@ -190,13 +191,15 @@ p {
     font-size: 36px;
 }
 
-.footer {
+/* Removed footer class as it is not necessary*/
+footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
 
-.footer h2 {
+/* Removed footer class as it is not necessary*/
+footer h2 {
     font-size: 20px;
 }
